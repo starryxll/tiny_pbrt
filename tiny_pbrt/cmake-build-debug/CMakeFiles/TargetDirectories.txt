@@ -1,0 +1,3 @@
+/Users/qinhaochen/c++_project/tiny_pbrt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/qinhaochen/c++_project/tiny_pbrt/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/qinhaochen/c++_project/tiny_pbrt/cmake-build-debug/CMakeFiles/tiny_pbrt.dir

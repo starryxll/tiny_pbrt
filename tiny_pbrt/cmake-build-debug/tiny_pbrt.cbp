@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="tiny_pbrt"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/qinhaochen/c++_project/tiny_pbrt/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/qinhaochen/c++_project/tiny_pbrt/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/qinhaochen/c++_project/tiny_pbrt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/qinhaochen/c++_project/tiny_pbrt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/qinhaochen/c++_project/tiny_pbrt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/qinhaochen/c++_project/tiny_pbrt/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/qinhaochen/c++_project/tiny_pbrt/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/qinhaochen/c++_project/tiny_pbrt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/qinhaochen/c++_project/tiny_pbrt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/qinhaochen/c++_project/tiny_pbrt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/qinhaochen/c++_project/tiny_pbrt/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/qinhaochen/c++_project/tiny_pbrt/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/qinhaochen/c++_project/tiny_pbrt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/qinhaochen/c++_project/tiny_pbrt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/qinhaochen/c++_project/tiny_pbrt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tiny_pbrt">
+				<Option output="/Users/qinhaochen/c++_project/tiny_pbrt/cmake-build-debug/tiny_pbrt" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/qinhaochen/c++_project/tiny_pbrt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/qinhaochen/c++_project/tiny_pbrt/cmake-build-debug/Makefile&quot;  VERBOSE=1 tiny_pbrt"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/qinhaochen/c++_project/tiny_pbrt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/qinhaochen/c++_project/tiny_pbrt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/qinhaochen/c++_project/tiny_pbrt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tiny_pbrt/fast">
+				<Option output="/Users/qinhaochen/c++_project/tiny_pbrt/cmake-build-debug/tiny_pbrt" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/qinhaochen/c++_project/tiny_pbrt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/qinhaochen/c++_project/tiny_pbrt/cmake-build-debug/Makefile&quot;  VERBOSE=1 tiny_pbrt/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/qinhaochen/c++_project/tiny_pbrt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/qinhaochen/c++_project/tiny_pbrt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/qinhaochen/c++_project/tiny_pbrt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/accelarator/bvh.cpp">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/accelarator/bvh.h">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/accelarator/kdtreeaccel.cpp">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/accelarator/kdtreeaccel.h">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/camera.cpp">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/camera.h">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/cameras/environment.cpp">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/cameras/environment.h">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/cameras/perspective.cpp">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/cameras/perspective.h">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/error.cpp">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/error.h">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/fileutil.cpp">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/fileutil.h">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/film.cpp">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/film.h">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/lights/diffuse.cpp">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/lights/diffuse.h">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/lights/distant.cpp">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/lights/distant.h">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/main.cpp">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/material.cpp">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/material.h">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/materials/bssrdf.cpp">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/materials/bssrdf.h">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/materials/subsurface.cpp">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/materials/subsurface.h">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/memory.cpp">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/memory.h">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/parallel.cpp">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/parallel.h">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/pbrt.h">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/primitive.cpp">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/primitive.h">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/sampler.cpp">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/sampler.h">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/samplers/halton.cpp">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/samplers/halton.h">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/samplers/stratified.cpp">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/samplers/stratified.h">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/sampling.cpp">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/sampling.h">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/scene.cpp">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/scene.h">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/shape.cpp">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/shape.h">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/stats.cpp">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/stats.h">
+			<Option target="tiny_pbrt"/>
+		</Unit>
+		<Unit filename="/Users/qinhaochen/c++_project/tiny_pbrt/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
